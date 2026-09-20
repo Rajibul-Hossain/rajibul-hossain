@@ -11,39 +11,39 @@
 
 ---
 
-### 🚀 Engineered Systems
+### 🚀 Engineered Systems (Static Fallback)
 
-<!-- Premium Dark Mode Cards with 16px Border Radius -->
-<div align="center">
-  <a href="https://github.com/Rajibul-Hossain/The-Bridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajibul-Hossain&repo=The-Bridge&bg_color=0D1117&border_color=30363D&border_radius=16&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="The Bridge Project Card" />
-  </a>
-  <a href="https://github.com/Rajibul-Hossain/HamaraLabs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajibul-Hossain&repo=HamaraLabs&bg_color=0D1117&border_color=30363D&border_radius=16&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="HamaraLabs Project Card" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Rajibul-Hossain/Gradians-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajibul-Hossain&repo=Gradians-AI&bg_color=0D1117&border_color=30363D&border_radius=16&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Gradians AI Project Card" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌉 The Bridge</h3>
+      <p align="center">Real-time location tracking and synchronized workspace.</p>
+      <p align="center"><code>Vanilla JS</code> • <code>Firebase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏫 HamaraLabs</h3>
+      <p align="center">Digital management platform for student assignments.</p>
+      <p align="center"><code>React</code> • <code>UI/UX Design</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Gradians AI</h3>
+      <p align="center">Automated notebook evaluation and dynamic flowchart generation.</p>
+      <p align="center"><code>JavaScript</code> • <code>AI Endpoints</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Sena Kavach</h3>
+      <p align="center">IoT soldier telemetry and border surveillance system.</p>
+      <p align="center"><code>C++</code> • <code>Raspberry Pi</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚙️ Core Architecture
 
 <div align="center">
-  <!-- Clean, unified tech stack icons -->
   <img src="https://skillicons.dev/icons?i=js,react,firebase,cpp,python,html,css,raspberrypi,arduino&perline=9" alt="Tech Stack Icons"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:rajibul.hossainschool@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&border=30363D" alt="Contact via Email"/>
-  </a>
 </div>
